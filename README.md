@@ -1,30 +1,30 @@
 csv-image-downloader
 ====================
 
-DESCRIPTION
+Description
 ===========
 
 Simple example for downloading images based on CSV data.
 
-DEPENDENCIES
+Dependencies
 ============
 
 * Text::CSV
 * LWP::Simple
 
-USAGE
+Usage
 =====
 
 ```bash
 ./csv-image-downloader.p6
 ```
 
-AUTHORS
+Authors
 =======
 
   * Sam Morrison
 
-COPYRIGHT AND LICENSE
+Copyright & License
 =====================
 
 Copyright 2015 Sam Morrison
