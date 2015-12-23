@@ -1,0 +1,11 @@
+{
+  "name"        : "p6-csv-image-downloader",
+  "version"     : "0.0.1",
+  "description" : "Download images based on CSV data",
+  "author"      : "github:scmorrison",
+  "depends"     : [ "Text::CSV", "LWP::Simple" ],
+  "source-url"  : "git://github.com/scmorrison/p6-csv-image-downloader.git",
+  "authors" : [
+        "Sam Morrison"
+  ]
+}
